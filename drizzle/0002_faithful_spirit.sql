@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `uq_household_member` ON `household_members` (`household_id`,`user_id`);

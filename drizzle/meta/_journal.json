@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791262913372,
+      "tag": "0000_conscious_vance_astro",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791265434099,
+      "tag": "0001_flimsy_squirrel_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791265467913,
+      "tag": "0002_faithful_spirit",
+      "breakpoints": true
+    }
+  ]
+}
